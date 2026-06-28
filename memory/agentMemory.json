@@ -1,0 +1,11 @@
+{
+  "marketplaceOperator": {
+    "operator": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+    "trustClaim": "Authorized Marketplace Operator from NFT metadata",
+    "metadata": {
+      "source": "nft://metadata/cryptopunks/4521",
+      "confidence": 0.6,
+      "storedAt": "2026-06-28T13:13:33.046Z"
+    }
+  }
+}
